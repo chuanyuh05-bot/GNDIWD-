@@ -1,4 +1,4 @@
-#Title:
+__Title__:
 The outlier detection method GNDIWD
 
 #Aim:
