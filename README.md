@@ -1,15 +1,16 @@
 __Title__:
+
 The outlier detection method GNDIWD
 
-#Aim:
+__Aim__:
 
 We propose a novel outlier detection algorithm (called GNDIWD) based on granular neighborhood discrimination index and weighted distance.
 
-#About Dataset:
+__About Dataset__:
 
 In the experiments, 15 datasets were used to evaluate the performance of our algorithm. The 15 datasets include 5 datasets from the ODDS repository [1] and 10 datasets from the UCI repository [2-3].
 
-#Reference:
+__Reference__:
 
 [1] Rayana S (2016) ODDS library. URL: http://odds.cs.stonybrook.edu.
 
