@@ -12,6 +12,8 @@ In the experiments, 15 datasets were used to evaluate the performance of our alg
 #Reference:
 
 [1] Rayana S (2016) ODDS library. URL: http://odds.cs.stonybrook.edu.
+
 [2] Bache K, Lichman M (2013) UCI machine learning repository. URL: https://archive.ics.uci.edu/ml.
+
 [3] Yuan Z, et al. https://github.com/BELLoney/Outlier-detection.
 
