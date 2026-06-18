@@ -5,6 +5,7 @@ The outlier detection method GNDIWD
 __Aim__:
 
 We propose a novel outlier detection algorithm (called GNDIWD) based on granular neighborhood discrimination index and weighted distance.
+Note: the code for NRSEL will be released soon.
 
 __About Dataset__:
 
